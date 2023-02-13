@@ -10,6 +10,7 @@ class TasbihApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
+      //Home screen
       home: HomeScreen(),
     );
   }
