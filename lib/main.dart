@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'screens/home.dart';
-
+// this is the starting point of the app.
 void main() {
   runApp(TasbihApp());
 }
